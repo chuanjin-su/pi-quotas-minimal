@@ -1,7 +1,7 @@
 {
 	"name": "pi-quotas-minimal",
 	"version": "0.1.0",
-	"description": "Quota footer status extension for pi (Codex, OpenCode Go)",
+	"description": "Quota footer status extension for pi (Codex, OpenCode Go, DeepSeek)",
 	"keywords": [
 		"pi-package",
 		"pi-extension",
