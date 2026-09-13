@@ -9,6 +9,23 @@
 		"opencode"
 	],
 	"license": "MIT",
+	"author": {
+		"name": "Chuanjin Su"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/chuanjin-su/pi-quotas-minimal.git"
+	},
+	"homepage": "https://github.com/chuanjin-su/pi-quotas-minimal#readme",
+	"bugs": {
+		"url": "https://github.com/chuanjin-su/pi-quotas-minimal/issues"
+	},
+	"files": [
+		"extensions",
+		"src",
+		"README.md",
+		"LICENSE"
+	],
 	"pi": {
 		"extensions": [
 			"./extensions"

@@ -72,4 +72,4 @@ pi -e ./extensions/quotas-status.ts   # quick test
 
 ## License
 
-MIT
+MIT © 2026 Chuanjin Su
